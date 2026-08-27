@@ -70,3 +70,17 @@ def test_static_params_routes():
     # Ensure html_files count matches plan's 49 routes (pixel-perfect)
     html_count = len(html_files)
     assert html_count >= 40, f"html_files >=40 failed, got {html_count}"
+
+
+def test_layout_injects_framer_runtime():
+    txt = pathlib.Path("nextjs_export/app/layout.tsx").read_text()
+    assert "next/script" in txt
+    assert "beforeInteractive" in txt
+    assert "framerusercontent" in txt
+    assert "motion.BTFsJANr.mjs" in txt or "framer.C4vrZTSM.mjs" in txt
+
+
+def test_globals_no_blanket_opacity():
+    css = pathlib.Path("nextjs_export/app/globals.css").read_text()
+    # Blanket [data-framer-appear-id] { opacity:1 !important } breaks motion — must be removed
+    assert "data-framer-appear-id" not in css or "opacity: 1 !important" not in css.split("data-framer-appear-id")[1][:200]
