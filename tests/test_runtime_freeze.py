@@ -84,3 +84,53 @@ def test_globals_no_blanket_opacity():
     css = pathlib.Path("nextjs_export/app/globals.css").read_text()
     # Blanket [data-framer-appear-id] { opacity:1 !important } breaks motion — must be removed
     assert "data-framer-appear-id" not in css or "opacity: 1 !important" not in css.split("data-framer-appear-id")[1][:200]
+
+
+def test_out_contains_all_routes():
+    out = pathlib.Path("nextjs_export/out")
+    # Fallback for cwd variations (pytest rootdir may differ)
+    if not out.exists():
+        alt = pathlib.Path(__file__).resolve().parents[1] / "nextjs_export" / "out"
+        if alt.exists():
+            out = alt
+    assert out.exists(), "out/ must exist after next build"
+    html_count = len(list(out.rglob("*.html")))
+    assert html_count >= 40, f"expected >=40 static HTML, got {html_count}"
+    # Parity checks — required routes must exist
+    for rel in ["index.html", "tours/index.html", "location/japan/index.html"]:
+        assert (out / rel).exists(), f"missing required route out/{rel} (html_count={html_count})"
+
+
+def test_no_framer_404_in_build_log():
+    candidates = [
+        pathlib.Path("nextjs_export/.next/build.log"),
+        pathlib.Path("nextjs_export/build.log"),
+        pathlib.Path(__file__).resolve().parents[1] / "nextjs_export" / ".next" / "build.log",
+        pathlib.Path(__file__).resolve().parents[1] / "nextjs_export" / "build.log",
+    ]
+    log = ""
+    log_path = None
+    for c in candidates:
+        if c.exists():
+            log_path = c
+            # Handle UTF-16 PowerShell Tee-Object output and UTF-8
+            raw = c.read_bytes()
+            if raw.startswith(b"\xff\xfe") or raw.startswith(b"\xfe\xff"):
+                try:
+                    log = raw.decode("utf-16")
+                except Exception:
+                    log = raw.decode("utf-8", errors="ignore")
+            else:
+                log = raw.decode("utf-8", errors="ignore")
+            break
+    # Must have no 404 for framerusercontent chunks (verbatim plan assertion)
+    assert "404" not in log or "framerusercontent" not in log, (
+        f"build log {log_path} contains framerusercontent 404: {log[:2000]}"
+    )
+    # Also ensure no framerusercontent 404 pattern at all (case-insensitive check)
+    lower = log.lower()
+    if "framerusercontent" in lower:
+        assert "404" not in log, f"framerusercontent present with 404 in build log {log_path}"
+    # Validate static generation reached 52/52 if log exists
+    if log and "Generating static pages" in log:
+        assert "52/52" in log, f"expected Generating static pages (52/52) in build log {log_path}"
