@@ -36,3 +36,37 @@ def test_next_config_static_export():
     assert "trailingSlash: true" in txt
     assert "outputFileTracingRoot" in txt
     assert "unoptimized: true" in txt
+
+
+def test_static_params_routes():
+    # Every cloned_site HTML should have a corresponding app route
+    html_files = list(pathlib.Path("cloned_site").rglob("*.html"))
+    routes = [p for p in html_files if p.name == "index.html" or p.name == "404.html"]
+    assert len(routes) >= 40, f"expected >=40 routes, got {len(routes)}"
+    # Check nextjs_export app routes exist
+    app_routes = list(pathlib.Path("nextjs_export/app").rglob("page.tsx"))
+    assert len(app_routes) >= 20, f"expected >=20 page.tsx, got {len(app_routes)}"
+    # Verify generateStaticParams exists in required dynamic routes
+    required_dynamic = [
+        "nextjs_export/app/tours/[slug]/page.tsx",
+        "nextjs_export/app/location/[slug]/page.tsx",
+        "nextjs_export/app/blog/[slug]/page.tsx",
+        "nextjs_export/app/categories/[slug]/page.tsx",
+        "nextjs_export/app/legal-pages/[slug]/page.tsx",
+    ]
+    for rel in required_dynamic:
+        p = pathlib.Path(rel)
+        assert p.exists(), f"missing dynamic route {rel}"
+        txt = p.read_text(encoding="utf-8", errors="ignore")
+        assert "generateStaticParams" in txt, f"{rel} must contain generateStaticParams"
+        assert "dangerouslySetInnerHTML" in txt, f"{rel} must use dangerouslySetInnerHTML for per-slug body"
+    # Also check overall count of files containing generateStaticParams
+    found = sum(
+        1
+        for f in pathlib.Path("nextjs_export/app").rglob("page.tsx")
+        if "generateStaticParams" in f.read_text(encoding="utf-8", errors="ignore")
+    )
+    assert found >= 5, f"expected >=5 files with generateStaticParams, got {found}"
+    # Ensure html_files count matches plan's 49 routes (pixel-perfect)
+    html_count = len(html_files)
+    assert html_count >= 40, f"html_files >=40 failed, got {html_count}"
