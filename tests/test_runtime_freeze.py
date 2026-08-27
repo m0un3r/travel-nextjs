@@ -28,3 +28,11 @@ def test_search_index_synced():
     assert pathlib.Path(
         "nextjs_export/public/framerusercontent/sites/4I8jtuL0GyWoXILTgNi7Sz/searchIndex-xdixgZY2ERLE.json"
     ).exists()
+
+
+def test_next_config_static_export():
+    txt = pathlib.Path("nextjs_export/next.config.mjs").read_text()
+    assert "output: 'export'" in txt or 'output: "export"' in txt
+    assert "trailingSlash: true" in txt
+    assert "outputFileTracingRoot" in txt
+    assert "unoptimized: true" in txt
