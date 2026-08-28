@@ -1,0 +1,104 @@
+node.exe : npm notice run transpiled-nextjs-site@1.0.0 build
+En línea: 1 Carácter: 1
++ & "C:\Program Files\nodejs/node.exe" "C:\Users\GLYTSHU\AppData\Roamin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (npm notice run ...ite@1.0.0 build:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+npm notice run next build
+Ôû▓ Next.js 16.3.3 (Turbopack)
+Ô£ô Running next.config.mjs took 55ms
+
+  Creating an optimized production build ...
+Ô£ô Compiled successfully in 3.9s
+  Running TypeScript ...
+  Finished TypeScript in 2.3s ...
+  Collecting page data using 11 workers ...
+  Generating static pages using 11 workers (0/52) ...
+  Generating static pages using 11 workers (13/52) 
+  Generating static pages using 11 workers (26/52) 
+  Generating static pages using 11 workers (39/52) 
+Ô£ô Generating static pages using 11 workers (52/52) in 548ms
+  Finalizing page optimization ...
+
+Route (app)
+Ôöî Ôùï /
+Ôö£ Ôùï /_not-found
+Ôö£ Ôùï /about
+Ôö£ ãÆ /api/submit-form
+Ôö£ Ôùï /blog
+Ôö£   /blog/[slug]
+Ôöé Ôö£ Ôùï /blog/a-cultural-walk-through-rome-s-ancient-streets
+Ôöé Ôö£ Ôùï /blog/a-sunset-journey-through-the-sahara-desert
+Ôöé Ôö£ Ôùï /blog/chasing-the-northern-lights-across-iceland
+Ôöé Ôöö ÔùÅ [+4 more paths]
+Ôö£ Ôùï /blog/a-cultural-walk-through-rome-s-ancient-streets
+Ôö£ Ôùï /blog/a-sunset-journey-through-the-sahara-desert
+Ôö£ Ôùï /blog/chasing-the-northern-lights-across-iceland
+Ôö£ Ôùï /blog/exploring-kyoto-s-hidden-temples-and-quiet-streets
+Ôö£ Ôùï /blog/island-life-in-the-maldives-what-it-really-feels-like
+Ôö£ Ôùï /blog/lost-in-time-a-week-inside-the-medina-of-fez
+Ôö£ Ôùï /blog/street-food-stories-from-bangkok-nights
+Ôö£   /categories/[slug]
+Ôöé Ôö£ Ôùï /categories/cities
+Ôöé Ôö£ Ôùï /categories/nature
+Ôöé Ôö£ Ôùï /categories/adventure
+Ôöé Ôöö ÔùÅ [+2 more paths]
+Ôö£ Ôùï /categories/adventure
+Ôö£ Ôùï /categories/cities
+Ôö£ Ôùï /categories/honeymoon
+Ôö£ Ôùï /categories/nature
+Ôö£ Ôùï /categories/wildlife
+Ôö£ Ôùï /contact
+Ôö£   /legal-pages/[slug]
+Ôöé Ôö£ Ôùï /legal-pages/privacy-policy
+Ôöé Ôöö Ôùï /legal-pages/terms-and-conditions
+Ôö£ Ôùï /legal-pages/privacy-policy
+Ôö£ Ôùï /legal-pages/terms-and-conditions
+Ôö£ Ôùï /location
+Ôö£   /location/[slug]
+Ôöé Ôö£ Ôùï /location/brazil
+Ôöé Ôö£ Ôùï /location/canada
+Ôöé Ôö£ Ôùï /location/china
+Ôöé Ôöö ÔùÅ [+6 more paths]
+Ôö£ Ôùï /location/brazil
+Ôö£ Ôùï /location/canada
+Ôö£ Ôùï /location/china
+Ôö£ Ôùï /location/iceland
+Ôö£ Ôùï /location/japan
+Ôö£ Ôùï /location/maldives
+Ôö£ Ôùï /location/morocco
+Ôö£ Ôùï /location/tanzania
+Ôö£ Ôùï /location/usa
+Ôö£ Ôùï /tours
+Ôö£   /tours/[slug]
+Ôöé Ôö£ Ôùï /tours/beijing-shanghai-city-highlights
+Ôöé Ôö£ Ôùï /tours/canada-rockies-explorer
+Ôöé Ôö£ Ôùï /tours/cherry-blossoms-kyoto-nara
+Ôöé Ôöö ÔùÅ [+16 more paths]
+Ôö£ Ôùï /tours/beijing-shanghai-city-highlights
+Ôö£ Ôùï /tours/canada-rockies-explorer
+Ôö£ Ôùï /tours/cherry-blossoms-kyoto-nara
+Ôö£ Ôùï /tours/china-heritage-nature-tour
+Ôö£ Ôùï /tours/deep-amazon-river-journey
+Ôö£ Ôùï /tours/iceland-northern-lights-trails
+Ôö£ Ôùï /tours/iceland-volcano-adventure-route
+Ôö£ Ôùï /tours/japan-autumn-colors-tour
+Ôö£ Ôùï /tours/maldives-island-getaway
+Ôö£ Ôùï /tours/maldives-luxury-retreat-escape
+Ôö£ Ôùï /tours/marrakech-desert-atlas-journey
+Ôö£ Ôùï /tours/morocco-cultural-cities-tour
+Ôö£ Ôùï /tours/new-york-california-city-escape
+Ôö£ Ôùï /tours/rio-unlocked-beyond-the-postcard
+Ôö£ Ôùï /tours/serengeti-great-migration-tour
+Ôö£ Ôùï /tours/tanzania-safari-wildlife-experience
+Ôö£ Ôùï /tours/tokyo-kyoto-city-experience
+Ôö£ Ôùï /tours/usa-national-parks-adventure
+Ôö£ Ôùï /tours/vancouver-toronto-city-tour
+Ôöö Ôùï /traveler-stories
+
+
+Ôùï  (Static)   prerendered as static content
+ÔùÅ  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ãÆ  (Dynamic)  server-rendered on demand
+

@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing / Pycache
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# Next.js Build outputs
+.next/
+out/
+build.log
+*.log
+
+# Large assets / Archives
+*.zip
+nextjs_export/public/assets/videos/
+public/assets/videos/
+
+# Misc
+.DS_Store
+*.local
+.env*.local
