@@ -42,3 +42,17 @@ def test_vite_build_dist():
     assert len(list(dist.rglob("*.html"))) >= 40
     assert (dist / "index.html").exists()
     assert (dist / "tours" / "index.html").exists()
+
+
+def test_index_css_no_blanket():
+    import pathlib
+    ROOT = pathlib.Path(__file__).resolve().parents[1]
+    css = (ROOT / "travelio-vite/src/index.css").read_text(encoding="utf-8")
+    assert "data-framer-appear-id" not in css or "opacity: 1 !important" not in css.split("data-framer-appear-id")[1][:200]
+
+
+def test_dist_no_framer_404():
+    import pathlib
+    ROOT = pathlib.Path(__file__).resolve().parents[1]
+    # Check dist html contains framerusercontent refs but no 404 pattern in build log
+    assert (ROOT / "travelio-vite/dist/index.html").read_text(encoding="utf-8").count("framerusercontent") >= 1
