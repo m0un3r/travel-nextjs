@@ -32,3 +32,13 @@ def test_vite_pages_generate_static_params():
     assert "cherry-blossoms-kyoto-nara" in tours
     assert "dangerouslySetInnerHTML" in tours
     assert tours.count("cherry") >= 1  # per-slug not generic
+
+
+def test_vite_build_dist():
+    import pathlib, subprocess
+    ROOT = pathlib.Path(__file__).resolve().parents[1]
+    dist = ROOT / "travelio-vite/dist"
+    assert dist.exists(), "dist must exist after vite build"
+    assert len(list(dist.rglob("*.html"))) >= 40
+    assert (dist / "index.html").exists()
+    assert (dist / "tours" / "index.html").exists()
