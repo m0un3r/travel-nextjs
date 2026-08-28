@@ -1,31 +1,62 @@
-# Dependencies
-node_modules/
-.pnp
-.pnp.js
-
-# Testing / Pycache
-.pytest_cache/
-__pycache__/
-*.pyc
-
-# Next.js Build outputs
-.next/
-out/
-build.log
+# Logs
+logs
 *.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
-# Large assets / Binaries (AI Studio text importer optimization)
-public/assets/images/
-public/assets/fonts/
-public/assets/videos/
-*.zip
-*.woff2
-*.png
-*.jpg
-*.jpeg
-*.mp4
-
-# Misc
-.DS_Store
+# Dependencies
+node_modules
+dist
+dist-ssr
 *.local
-.env*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Vitest Coverage & Build Info
+coverage
+*.tsbuildinfo
+test_out*.txt
+test_output*.txt
+
+# Binary & Media Bloat Prevention
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Internal / Agent Metadata Directories
+.agents/
+.superpowers/
+.pytest_cache/
+
+# Legacy and Sub-project Folders (Google AI Studio Root Compatibility)
+cloned_site/
+nextjs_export/
+travelio-vite/
+travelio_vite_app/
+docs/
+*.py
