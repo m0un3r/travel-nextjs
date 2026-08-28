@@ -113,7 +113,7 @@ cloned_site/index.html
 
 ## 6. Testing & Validation
 
-1. **Build:** `next build` must succeed; `out/` must contain 42 HTML files matching `cloned_site/**/index.html` count.
+1. **Build:** `next build` must succeed; `out/` must contain 52 HTML files matching `cloned_site/**/index.html` count (19 tours + 9 locations + 7 blog + 5 categories + 2 legal + static/404).
 2. **Console:** Browser console shows zero `published_site_load_error` / `recoverable_error`; zero 404 for `*.mjs` / `/assets/*`.
 3. **Visual parity:** Pixel diff + manual interaction checklist vs `cloned_site` served via `python -m http.server`:
    - Hero clouds `fogDriftLeft/Center/Right` + `heroBgPulse`
