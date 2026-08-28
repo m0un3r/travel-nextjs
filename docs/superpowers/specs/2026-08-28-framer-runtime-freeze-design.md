@@ -20,7 +20,7 @@ nextjs_export/
     page.tsx                       # /  (shell + dangerouslySetInnerHTML + re-injected runtime scripts)
     about/page.tsx
     tours/page.tsx + tours/[SUBqtsFoD]/page.tsx        # 19 tours (3 in current dump)
-    location/page.tsx + location/[tnVufIJO5]/page.tsx   # 6 locations
+    location/page.tsx + location/[tnVufIJO5]/page.tsx   # 9 locations (brazil, canada, china, iceland, japan, maldives, morocco, tanzania, usa)
     blog/page.tsx + blog/[KYfJhVQQv]/page.tsx           # 7 posts
     categories/[J4jZjNt3n]/page.tsx                      # 5 categories
     legal-pages/[SLUG]/page.tsx                          # 2
@@ -73,7 +73,7 @@ No new npm dependencies. Next.js is only a static file server around Framer's Re
 ## 3. Routing & Static Export
 
 - **Static params:** Enumerated at build from frozen files:
-  - `location/:tnVufIJO5` → 6 (`japan`, `morocco`, `iceland`, `maldives`, `china`, `tanzania`)
+  - `location/:tnVufIJO5` → 9 (`brazil`, `canada`, `china`, `iceland`, `japan`, `maldives`, `morocco`, `tanzania`, `usa`)
   - `tours/:SUBqtsFoD` → 3 in dump (`cherry-blossoms-kyoto-nara`, `marrakech-desert-atlas-journey`, `maldives-island-getaway`) — expand to 19 when full site cloned
   - `blog/:KYfJhVQQv` → 6 captured posts
   - `categories/:J4jZjNt3n` → 5 (`cities`, `nature`, `adventure`, `honeymoon`, `wildlife`)

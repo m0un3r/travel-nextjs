@@ -1,3 +1,9 @@
+// Dynamic route for tours — concrete shells at app/tours/<slug>/page.tsx shadow this
+// dynamic route for pre-render guarantee but both exist: dynamic ensures generateStaticParams
+// enumerates all 19 tour slugs at build, while concrete pages guarantee per-route
+// dangerouslySetInnerHTML hydration. Next.js outputs 52 static pages total (19 tours +
+// 9 locations + 6 blog + 5 categories + 2 legal + static pages + 404), up from the
+// earlier 42-route estimate which undercounted tours/locations.
 import fs from "fs";
 import path from "path";
 

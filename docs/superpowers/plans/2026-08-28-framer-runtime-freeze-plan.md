@@ -178,7 +178,7 @@ git commit -m "fix: enable output export + trailingSlash + tracingRoot"
 
 **Interfaces:**
 - Consumes: `cloned_site/**/index.html` tree + `__framer__handoverData` JSON
-- Produces: `export async function generateStaticParams()` for each dynamic segment; `out/` must contain 42 HTML files
+- Produces: `export async function generateStaticParams()` for each dynamic segment; `out/` must contain 52 HTML files (19 tours + 9 locations + remainder; concrete shells shadow dynamic routes for pre-render guarantee)
 
 - [ ] **Step 1: Write failing test**
 
@@ -225,7 +225,7 @@ export default function Page({ params }: { params: { slug: string }}) {
 
 - [ ] **Step 4: Run `next build` dry-run to verify static generation**
 
-Run: `npx next build --dry-run` or `npm run build` (expect `Generating static pages (42/42)`)
+Run: `npx next build --dry-run` or `npm run build` (expect `Generating static pages (52/52)` — was 42/42 before full 19 tours + 9 locations counted)
 Expected: PASS with no `generateStaticParams` missing warning
 
 - [ ] **Step 5: Commit**
@@ -315,7 +315,7 @@ git commit -m "fix: re-inject Framer motion runtime via next/script (B/D)"
 
 **Interfaces:**
 - Consumes: All prior tasks
-- Produces: `out/` with 42 HTML, zero hydration errors
+- Produces: `out/` with 52 HTML (19 tours + 9 locations + 6 blog + 5 categories + 2 legal + 11 static/404), zero hydration errors — earlier 42 estimate undercounted tours/locations; concrete shells shadow dynamic routes but both exist for pre-render guarantee (see `app/tours/[slug]/page.tsx` header)
 
 - [ ] **Step 1: Write failing test for out/**
 
@@ -339,7 +339,7 @@ Expected: FAIL if Task 4 not done (missing chunks 404)
 
 - [ ] **Step 3: Implement validation harness (no code, just run)**
 
-- Ensure `npm run build` completes: `Generating static pages (42/42)` and `out/` exists.
+- Ensure `npm run build` completes: `Generating static pages (52/52)` and `out/` exists (was 42/42 in initial estimate; now 52 with full 19 tours + 9 locations).
 
 - [ ] **Step 4: Run tests to verify it passes**
 
