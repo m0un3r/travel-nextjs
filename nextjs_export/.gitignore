@@ -14,9 +14,16 @@ out/
 build.log
 *.log
 
-# Large assets / Archives
-*.zip
+# Large assets / Binaries (AI Studio text importer optimization)
+public/assets/images/
+public/assets/fonts/
 public/assets/videos/
+*.zip
+*.woff2
+*.png
+*.jpg
+*.jpeg
+*.mp4
 
 # Misc
 .DS_Store

@@ -1,0 +1,51 @@
+const fs = require('fs');
+const path = require('path');
+
+const ROOT = path.join(__dirname, '../../cloned_site');
+const indexHtml = fs.readFileSync(path.join(ROOT, 'index.html'), 'utf8');
+
+const categories = [
+  {
+    id: 'cities',
+    name: 'Cities',
+    slug: 'cities',
+    count: 6,
+    image: '/assets/images/YwXfDQm7VQKhpBjNJ5WKtWExaQ.jpg',
+    description: 'Immerse in iconic skylines, ancient streets, and vibrant urban cultures across the world.'
+  },
+  {
+    id: 'nature',
+    name: 'Nature',
+    slug: 'nature',
+    count: 5,
+    image: '/assets/images/lfG58y0uYhTDgIxFCEe9hXwFwIQ.jpg',
+    description: 'Discover majestic peaks, pristine lakes, cherry blossoms, and untouched wilderness.'
+  },
+  {
+    id: 'adventure',
+    name: 'Adventure',
+    slug: 'adventure',
+    count: 4,
+    image: '/assets/images/4UUbog5cXe63kkEJCabmkYlgkEQ.jpg',
+    description: 'Trek volcanic craters, traverse vast desert dunes, and navigate wild river waterways.'
+  },
+  {
+    id: 'honeymoon',
+    name: 'Honeymoon',
+    slug: 'honeymoon',
+    count: 2,
+    image: '/assets/images/7n9r5WhonReXvDI6VjTkEDPpVwU.jpg',
+    description: 'Secluded overwater villas, romantic sunset cruises, and tranquil island escapes.'
+  },
+  {
+    id: 'wildlife',
+    name: 'Wildlife',
+    slug: 'wildlife',
+    count: 2,
+    image: '/assets/images/vfhudlU9zr6W4l4WYrEEUkqQ5M.jpg',
+    description: 'Witness the great Serengeti migration and close-up big game safaris in their natural habitat.'
+  }
+];
+
+fs.writeFileSync(path.join(__dirname, 'categories_dataset.json'), JSON.stringify(categories, null, 2), 'utf8');
+console.log('Saved categories_dataset.json');

@@ -1,0 +1,1313 @@
+[
+  {
+    "id": "tokyo-kyoto-city-experience",
+    "slug": "tokyo-kyoto-city-experience",
+    "title": "Tokyo & Kyoto City Experience",
+    "category": "Cities",
+    "location": "Japan",
+    "price": 2980,
+    "priceFormatted": "$2,980",
+    "duration": "7 D / 6 N",
+    "days": 7,
+    "nights": 6,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/du6QTa2F518CilOZfHf55exxyE.jpg",
+    "images": [
+      "/assets/assets/images/du6QTa2F518CilOZfHf55exxyE.jpg",
+      "/assets/assets/images/eS0Qb1ChlF2BWCkPzPpuCUKQBjQ.jpg",
+      "/assets/assets/images/fg5J1HsYxTu9O9kPBlC01ber2kU.jpg",
+      "/assets/assets/images/78JNTkJyOs3LKquaOdjoJBqXvw.jpg"
+    ],
+    "overview": "Tokyo moves with intensity, where every street feels active and constantly changing. Kyoto offers a different experience, shaped by stillness, detail, and traditions that have remained consistent over time.",
+    "note": "Moving between these two cities creates a shift in perspective. The contrast is not only visual but also in how each place is experienced. Fast transitions give way to slower moments, allowing you to notice both energy and calm within the same journey.",
+    "highlights": [
+      "Combines Japanâs most dynamic and historic cities",
+      "Balanced itinerary with guided and free time",
+      "Access to cultural landmarks and local neighborhoods",
+      "Comfortable high-speed rail travel between cities"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "morocco-cultural-cities-tour",
+    "slug": "morocco-cultural-cities-tour",
+    "title": "Morocco Cultural Cities Tour",
+    "category": "Cities",
+    "location": "Morocco",
+    "price": 2890,
+    "priceFormatted": "$2,890",
+    "duration": "7 D / 6 N",
+    "days": 7,
+    "nights": 6,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/qTCw6M4u27RbXC4G6UlSo6qCdg.jpg",
+    "images": [
+      "/assets/assets/images/qTCw6M4u27RbXC4G6UlSo6qCdg.jpg",
+      "/assets/assets/images/2oa6iZK8S2a4HGuMSNVfClxHc.jpg",
+      "/assets/assets/images/wPMwXyw7hm1n5a6SGDtensZ4.jpg",
+      "/assets/assets/images/sdiapwEOPzAH5P6UKYAHls0wA2w.jpg"
+    ],
+    "overview": "Moroccoâs cities are shaped by daily life rather than fixed viewpoints. Streets carry movement, workshops open into narrow alleys, and architecture reveals itself gradually instead of all at once.",
+    "note": "Moving between Marrakech and Fez introduces different rhythms. One feels layered and energetic, the other more intricate and grounded. The journey is built to let those differences unfold naturally, without rushing from one landmark to another.",
+    "highlights": [
+      "Focus on Moroccoâs most historic and character-rich cities",
+      "Guided walks through medinas and cultural districts",
+      "Time to observe daily life beyond main landmarks",
+      "Balanced pace between structured visits and free exploration"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "beijing-shanghai-city-highlights",
+    "slug": "beijing-shanghai-city-highlights",
+    "title": "Beijing & Shanghai City Highlights",
+    "category": "Cities",
+    "location": "China",
+    "price": 2740,
+    "priceFormatted": "$2,740",
+    "duration": "6 D / 5 N",
+    "days": 6,
+    "nights": 5,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/6ZLrols5wE53JdHJLyNQ0Nx19Q.jpg",
+    "images": [
+      "/assets/assets/images/6ZLrols5wE53JdHJLyNQ0Nx19Q.jpg",
+      "/assets/assets/images/gfVxMvgy6ERubHg1ixr8iLgE4o.jpg",
+      "/assets/assets/images/a0NFc64L0nlZi98i41UvMAVleQ.jpg",
+      "/assets/assets/images/O3vqWjVrDfT25nlasqjmqAXEoc8.jpg"
+    ],
+    "overview": "In Beijing, the past is visible at every step. Wide avenues lead to imperial complexes, and monuments reflect centuries of structure and order. The city feels grounded, shaped by layers of history that remain present.",
+    "note": "Shanghai offers a different experience. Movement feels faster, buildings rise higher, and the skyline reflects constant change. Bringing both cities together creates a journey defined by contrast, where tradition and modern life exist within the same narrative.",
+    "highlights": [
+      "Combines Chinaâs capital and its most modern city",
+      "Includes both historic landmarks and contemporary districts",
+      "Guided visits with cultural context",
+      "Smooth domestic travel between cities"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "new-york-california-city-escape",
+    "slug": "new-york-california-city-escape",
+    "title": "New York & California City Escape",
+    "category": "Cities",
+    "location": "USA",
+    "price": 3260,
+    "priceFormatted": "$3,260",
+    "duration": "4 D / 3 N",
+    "days": 4,
+    "nights": 3,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/6xaJmGleqVtpF2zdzlRPpZe7uw.jpg",
+    "images": [
+      "/assets/assets/images/6xaJmGleqVtpF2zdzlRPpZe7uw.jpg",
+      "/assets/assets/images/wYIGq76xPmyms0RTj2KiG750FPc.jpg",
+      "/assets/assets/images/URqEfKTF6YfGXC8eJhgiJW1Jg.jpg",
+      "/assets/assets/images/gTrQz5bIpiUkoCQ0LWIESyAkkI.jpg"
+    ],
+    "overview": "New York rises vertically, dense and fast, where every block feels active and every moment carries momentum. California spreads outward, where space opens up, light changes the mood, and the pace becomes more fluid.",
+    "note": "Moving between these coasts creates a noticeable shift. The experience begins with intensity and gradually transitions into openness, offering two completely different perspectives within one journey.",
+    "highlights": [
+      "Combines two of the most iconic US destinations",
+      "Includes both structured highlights and free time",
+      "Captures the contrast between East and West Coast lifestyles",
+      "Smooth domestic flight connections included"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "vancouver-toronto-city-tour",
+    "slug": "vancouver-toronto-city-tour",
+    "title": "Vancouver & Toronto City Tour",
+    "category": "Cities",
+    "location": "Canada",
+    "price": 2960,
+    "priceFormatted": "$2,960",
+    "duration": "6 D / 5 N",
+    "days": 6,
+    "nights": 5,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/wn6ZW4i0eSJHh4TqFC4aGsmiT4c.jpg",
+    "images": [
+      "/assets/assets/images/wn6ZW4i0eSJHh4TqFC4aGsmiT4c.jpg",
+      "/assets/assets/images/6wdUxQ21J2sHnC0R8GrPuyip8w.jpg",
+      "/assets/assets/images/msOzwFTQW5TTZDN9hSJyfqNryU.jpg",
+      "/assets/assets/images/aO5Htn3k0lmeW4JId5oX7paT5M.jpg"
+    ],
+    "overview": "Vancouver feels open and balanced, where the city blends into its surroundings. Water, mountains, and urban spaces exist side by side, creating an environment that feels relaxed yet structured.",
+    "note": "Toronto carries a different energy. The city is more vertical, more fast-moving, and shaped by a mix of cultures that define its identity. Moving between these two places creates a shift in pace and perspective, offering a broader view of urban life in Canada.",
+    "highlights": [
+      "Combines Canadaâs west and east coast cities",
+      "Balanced itinerary with guided and free time",
+      "Mix of cultural districts and modern spaces",
+      "Domestic flight included for smooth travel"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "rio-unlocked-beyond-the-postcard",
+    "slug": "rio-unlocked-beyond-the-postcard",
+    "title": "Rio Unlocked Beyond the Postcard",
+    "category": "Cities",
+    "location": "Brazil",
+    "price": 2680,
+    "priceFormatted": "$2,680",
+    "duration": "6 D / 5 N",
+    "days": 6,
+    "nights": 5,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/jSxLHSGGUbZMRINhoM8g1Ug1gw.jpg",
+    "images": [
+      "/assets/assets/images/jSxLHSGGUbZMRINhoM8g1Ug1gw.jpg",
+      "/assets/assets/images/7ecwnHFTAnQkeY98MVGtKy1OQ.jpg",
+      "/assets/assets/images/1Bq6l9jjyIORkHPQgjTIF1eS6I.jpg",
+      "/assets/assets/images/7X0je9ZX5tUf5y6wO6gYMcLkkYI.jpg"
+    ],
+    "overview": "Rio is often seen through a few iconic views, but the real experience unfolds elsewhere. Movement flows through neighborhoods, music carries through the streets, and daily life shapes the city in ways that are not always visible at first glance.",
+    "note": "This journey is built to go further. Well-known landmarks are part of the story, but the focus shifts toward how the city feels when you move through it more closely. Each day opens a different layer, gradually moving beyond the surface.",
+    "highlights": [
+      "Moves beyond typical tourist viewpoints",
+      "Combines landmarks with local neighborhoods",
+      "Focus on culture, rhythm, and everyday life",
+      "Guided experiences with local insight"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "cherry-blossoms-kyoto-nara",
+    "slug": "cherry-blossoms-kyoto-nara",
+    "title": "Cherry Blossoms of Kyoto & Nara",
+    "category": "Nature",
+    "location": "Japan",
+    "price": 3290,
+    "priceFormatted": "$3,290",
+    "duration": "7 D / 6 N",
+    "days": 7,
+    "nights": 6,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/i1ahDWXM78VeoIDi30JAUKsIlM.jpg",
+    "images": [
+      "/assets/assets/images/i1ahDWXM78VeoIDi30JAUKsIlM.jpg",
+      "/assets/assets/images/okTnWMyovv72tImtQjOPgVYyZQ.jpg",
+      "/assets/assets/images/ddT3Z8s760EQLQUPw1JjHyIPZc.jpg",
+      "/assets/assets/images/GR4AN4ao3Rbxvj3Nk8nbRFO8JNk.jpg"
+    ],
+    "overview": "Every spring, for a window of just two weeks, Japan transforms. The sakura cherry blossoms arrive like a quiet announcement that winter is over, and nowhere feels this more profoundly than Kyoto.",
+    "note": "Ancient temples are draped in pale pink. Stone lanterns half-hidden by petals. Monks walking paths they have walked for centuries, now canopied in blossom. This nine-day journey is timed precisely to the peak bloom. From Kyoto's most celebrated gardens to the deer-filled avenues of Nara, every day has been curated to put you in the right place at the right light before the crowds, after the rain, exactly when it matters most.",
+    "highlights": [
+      "Peak Bloom Timing Guaranteed",
+      "Dawn at Maruyama Park",
+      "Private Tea Ceremony in Uji",
+      "Nara's Sacred Deer & Kasuga Shrine"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "japan-autumn-colors-tour",
+    "slug": "japan-autumn-colors-tour",
+    "title": "Japan Autumn Colors Tour",
+    "category": "Nature",
+    "location": "Japan",
+    "price": 1980,
+    "priceFormatted": "$1,980",
+    "duration": "4 D / 3 N",
+    "days": 4,
+    "nights": 3,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/RF9WW4hfDIJq6W4I7AKRghD90io.jpg",
+    "images": [
+      "/assets/assets/images/RF9WW4hfDIJq6W4I7AKRghD90io.jpg",
+      "/assets/assets/images/dIRysalINc4XWPxFdH9S4W94VaQ.jpg",
+      "/assets/assets/images/riLR4kdeSsFCsJDEibyp0aUttjo.jpg",
+      "/assets/assets/images/Y9Cd7yJ48vilovRvySnRAGJqvZM.jpg"
+    ],
+    "overview": "As the season shifts, Japan takes on a different mood. Leaves begin to turn, light softens, and spaces that are usually busy feel more measured. The atmosphere changes gradually, creating moments that feel calm and reflective.",
+    "note": "Moving across regions reveals how differently autumn appears in each place. In Tokyo, gardens frame the colors with precision. In Nikko, forests surround shrines with depth and stillness. In Kyoto, elevated viewpoints open into layered landscapes filled with seasonal tones.",
+    "highlights": [
+      "Timed to experience peak autumn colors across regions",
+      "Combines city environments with natural landscapes",
+      "Includes temple grounds known for seasonal views",
+      "Comfortable travel using high-speed rail"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "iceland-northern-lights-trails",
+    "slug": "iceland-northern-lights-trails",
+    "title": "Iceland Northern Lights Trails",
+    "category": "Nature",
+    "location": "Iceland",
+    "price": 3980,
+    "priceFormatted": "$3,980",
+    "duration": "5 D / 4 N",
+    "days": 5,
+    "nights": 4,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/sRt3AoDQ9mY9K6vU01ZFwF4Ev0M.jpg",
+    "images": [
+      "/assets/assets/images/sRt3AoDQ9mY9K6vU01ZFwF4Ev0M.jpg",
+      "/assets/assets/images/aEF0DibHVWLCHkEpSdhOYbqvR8.jpg",
+      "/assets/assets/images/InYo9EYJvSmv9ubrMhZWiVHMG4M.jpg",
+      "/assets/assets/images/ZTnIiuD8qfWDlOFVkEiR5MGpsWI.jpg"
+    ],
+    "overview": "Landscapes in Iceland feel constantly in motion, even when still. Waterfalls cut through cliffs, glaciers stretch across valleys, and open terrain creates a sense of scale that is hard to define. The environment does not feel controlled; it feels active.",
+    "note": "Winter introduces a different dimension. Light becomes limited, and the sky takes on greater importance. When conditions align, the northern lights appear, shifting across the darkness in ways that feel unpredictable and brief. The journey follows these natural rhythms rather than forcing a fixed pace.",
+    "highlights": [
+      "Built around northern lights visibility conditions",
+      "Combines glaciers, waterfalls, and volcanic terrain",
+      "A small group allows flexibility based on the weather",
+      "Includes guided experiences in natural settings"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "china-heritage-nature-tour",
+    "slug": "china-heritage-nature-tour",
+    "title": "China Heritage & Nature Tour",
+    "category": "Nature",
+    "location": "China",
+    "price": 3180,
+    "priceFormatted": "$3,180",
+    "duration": "7 D / 6 N",
+    "days": 7,
+    "nights": 6,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/4Xx6AqG4mvGpPNnYJRJyDCJPU.jpg",
+    "images": [
+      "/assets/assets/images/4Xx6AqG4mvGpPNnYJRJyDCJPU.jpg",
+      "/assets/assets/images/uensBelhGJGOpcXv4omKClWJT7g.jpg",
+      "/assets/assets/images/COiYhK4Vmvp77SYlIvHme1HqYw.jpg",
+      "/assets/assets/images/YZ0vQ0kMvkSNaumx7gy260ni1gw.jpg"
+    ],
+    "overview": "China reveals itself differently once you move beyond major cities. Distances open up, surroundings become quieter, and landmarks feel more connected to the landscapes around them. Mountains, rivers, and historic structures begin to share the same space.",
+    "note": "This journey is designed to follow that transition. Instead of focusing only on urban environments, it moves through regions where history and nature exist side by side, allowing each location to feel more grounded and complete.",
+    "highlights": [
+      "Combines cultural heritage with scenic environments",
+      "Moves beyond major cities into quieter regions",
+      "Includes natural landscapes alongside historic sites",
+      "Balanced pace with time to take in surroundings"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "canada-rockies-explorer",
+    "slug": "canada-rockies-explorer",
+    "title": "Canada Rockies Explorer",
+    "category": "Nature",
+    "location": "Canada",
+    "price": 3680,
+    "priceFormatted": "$3,680",
+    "duration": "7 D / 6 N",
+    "days": 7,
+    "nights": 6,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/UF8RsE3scIaPPXfve77Xo5kkUY.jpg",
+    "images": [
+      "/assets/assets/images/UF8RsE3scIaPPXfve77Xo5kkUY.jpg",
+      "/assets/assets/images/OzrYxq6vL27UXV2rSIif5GsZkjQ.jpg",
+      "/assets/assets/images/yDsRwIG1Y1L3gqcljzKR9RE8.jpg",
+      "/assets/assets/images/kL1NyVGgci6l2u1iy7Ekdh2VQVg.jpg"
+    ],
+    "overview": "The Canadian Rockies carry a quiet presence. Lakes remain perfectly still, reflecting mountains with clarity, while forests and valleys stretch outward without interruption. The environment feels balanced, neither rushed nor overwhelming.",
+    "note": "Each location reveals itself gradually. Light changes across the water, mountains shift in tone throughout the day, and the atmosphere encourages slowing down. The experience is not about constant movement, but about taking in what is already there.",
+    "highlights": [
+      "Focus on Canadaâs most scenic alpine regions",
+      "Combines lakes, mountains, and forest landscapes",
+      "Designed for a slower, more relaxed pace",
+      "Includes iconic viewpoints and quiet locations"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "marrakech-desert-atlas-journey",
+    "slug": "marrakech-desert-atlas-journey",
+    "title": "Marrakech Desert & Atlas Journey",
+    "category": "Adventure",
+    "location": "Morocco",
+    "price": 3150,
+    "priceFormatted": "$3,150",
+    "duration": "5 D / 4 N",
+    "days": 5,
+    "nights": 4,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/4PR31Yfg2JD6Zd8xCXJ07rDUq7U.jpg",
+    "images": [
+      "/assets/assets/images/4PR31Yfg2JD6Zd8xCXJ07rDUq7U.jpg",
+      "/assets/assets/images/RLRe9xlhTfrGgNKklT6MrGs97Y.jpg",
+      "/assets/assets/images/2QQ5zbHFT7RoLKe6Xb2xm8cxw.jpg",
+      "/assets/assets/images/YeanGvuC5ucfkzo8DsCIFyTa4k.jpg"
+    ],
+    "overview": "Marrakech begins with movement. Streets feel dense, sounds overlap, and every corner brings something new into view. But as the journey continues, that intensity gradually falls away. Roads begin to stretch, the air feels wider, and the surroundings become quieter.",
+    "note": "By the time the desert appears, everything changes. Space replaces structure, and silence becomes part of the experience. This shift from city to open landscape defines the entire journey, creating a sense of progression that unfolds naturally over each day.",
+    "highlights": [
+      "Moves from city life into remote desert landscapes",
+      "Crosses the Atlas Mountains with changing scenery",
+      "Includes a night in a traditional desert camp",
+      "Combines guided exploration with open time"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "iceland-volcano-adventure-route",
+    "slug": "iceland-volcano-adventure-route",
+    "title": "Iceland Volcano & Adventure Route",
+    "category": "Adventure",
+    "location": "Iceland",
+    "price": 3720,
+    "priceFormatted": "$3,720",
+    "duration": "7 D / 6 N",
+    "days": 7,
+    "nights": 6,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/8BRu0EopyNRiOv7c0Tnb0oes5g.jpg",
+    "images": [
+      "/assets/assets/images/8BRu0EopyNRiOv7c0Tnb0oes5g.jpg",
+      "/assets/assets/images/UU8GpKF01xtFAunS3GYyGnEQn6k.jpg",
+      "/assets/assets/images/zqQCC6dCPIC6aDCbufCaxMfx0XY.jpg",
+      "/assets/assets/images/6Ox9TZB2RqW252ltPLLbWTkaMI.jpg"
+    ],
+    "overview": "Icelandâs volcanic regions carry a different kind of energy. The ground tells a story of movement, shaped by eruptions, shifting plates, and landscapes that continue to evolve. Black lava fields stretch across the horizon, steam rises from the earth, and the terrain feels raw and unfinished.",
+    "note": "This journey focuses on that active side of Iceland. Instead of waiting for moments, it moves through them. Each day introduces a new environment, from geothermal zones to rugged trails, creating a sense of constant discovery.",
+    "highlights": [
+      "Focus on Icelandâs volcanic and geothermal regions",
+      "Includes active exploration and outdoor movement",
+      "Visits landscapes shaped by recent geological activity",
+      "Designed for travelers who prefer dynamic experiences"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "usa-national-parks-adventure",
+    "slug": "usa-national-parks-adventure",
+    "title": "USA National Parks Adventure",
+    "category": "Adventure",
+    "location": "USA",
+    "price": 3540,
+    "priceFormatted": "$3,540",
+    "duration": "7 D / 6 N",
+    "days": 7,
+    "nights": 6,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/2EsjJdpHvrZO4I4tibTYv0ZfTrs.jpg",
+    "images": [
+      "/assets/assets/images/2EsjJdpHvrZO4I4tibTYv0ZfTrs.jpg",
+      "/assets/assets/images/shSloZiPingugwHbEFWGUBmCsnA.jpg",
+      "/assets/assets/images/nUKCR4xkgJVcvEbOFmRWQSwevjs.jpg",
+      "/assets/assets/images/vwuFMDx8E84Bs2fSq0NCnXzJT1I.jpg"
+    ],
+    "overview": "Out here, distance is not something to shorten; it is something to experience. Roads stretch across deserts, climb through mountains, and connect landscapes that feel completely different from one another.",
+    "note": "Each park introduces a new sense of scale. Wide valleys, layered rock formations, and open skies create a rhythm that is shaped by movement. The journey is not just about where you stop, but how you get ther",
+    "highlights": [
+      "Covers multiple iconic national parks in one route",
+      "Designed as a scenic road trip experience",
+      "Constantly changing landscapes across regions",
+      "Balanced stops with time on the road"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "deep-amazon-river-journey",
+    "slug": "deep-amazon-river-journey",
+    "title": "Deep Amazon River Journey",
+    "category": "Adventure",
+    "location": "Brazil",
+    "price": 3920,
+    "priceFormatted": "$3,920",
+    "duration": "7 D / 6 N",
+    "days": 7,
+    "nights": 6,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/f0adqf8aqYKp5f0LBX0Fd0Zp9M.jpg",
+    "images": [
+      "/assets/assets/images/f0adqf8aqYKp5f0LBX0Fd0Zp9M.jpg",
+      "/assets/assets/images/gx16ExHNZoHHLRlBNnttRryfpM.jpg",
+      "/assets/assets/images/VRhBf920YqlhoXgO0q5cudOjFtY.jpg",
+      "/assets/assets/images/lFwVR1HGxJ7DGQwipBynXejAF80.jpg"
+    ],
+    "overview": "There are no roads leading into this part of the Amazon. Movement happens along water, with the river acting as both route and reference point. The surroundings feel continuous, dense forest, shifting light, and sounds that never fully fade.",
+    "note": "As the journey moves deeper, the sense of distance changes. Time stretches, communication with the outside world becomes less relevant, and attention shifts toward what is immediate. The experience is shaped by observation rather than direction.",
+    "highlights": [
+      "Access remote regions only reachable by river",
+      "Guided exploration of rainforest ecosystems",
+      "Small group for minimal environmental impact",
+      "Opportunities to observe wildlife in natural habitat"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "maldives-island-getaway",
+    "slug": "maldives-island-getaway",
+    "title": "Maldives Island Getaway",
+    "category": "Honeymoon",
+    "location": "Maldives",
+    "price": 3980,
+    "priceFormatted": "$3,980",
+    "duration": "5 D / 4 N",
+    "days": 5,
+    "nights": 4,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/0otpDf0XMqatkIbgQIpamAsvOI.jpg",
+    "images": [
+      "/assets/assets/images/0otpDf0XMqatkIbgQIpamAsvOI.jpg",
+      "/assets/assets/images/xqnaZFVcO8HZ5QbNDfkFbgdzXo.jpg",
+      "/assets/assets/images/0wKvgXYC3au8l61SxLg5NcGkFg.jpg",
+      "/assets/assets/images/6bgrS7sZumVlrvDb0y1yxr2JVM.jpg"
+    ],
+    "overview": "Nothing feels rushed here. Mornings begin with soft light over the water, and the day unfolds without urgency. The surroundings remain consistent, yet never feel repetitive, shifting subtly with light, tides, and sky.",
+    "note": "Time is measured differently. Instead of schedules, the experience is shaped by moments, whether that means staying by the shoreline, stepping into the water, or simply watching the horizon change.",
+    "highlights": [
+      "Designed for rest, privacy, and uninterrupted views",
+      "Direct access to the beach and overwater settings",
+      "Minimal schedule with maximum flexibility",
+      "Ideal for couples and quiet escapes"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "maldives-luxury-retreat-escape",
+    "slug": "maldives-luxury-retreat-escape",
+    "title": "Maldives Luxury Retreat Escape",
+    "category": "Honeymoon",
+    "location": "Maldives",
+    "price": 5480,
+    "priceFormatted": "$5,480",
+    "duration": "6 D / 5 N",
+    "days": 6,
+    "nights": 5,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/yEQwrG2e3i6vpSYWpjmI073swY.jpg",
+    "images": [
+      "/assets/assets/images/yEQwrG2e3i6vpSYWpjmI073swY.jpg",
+      "/assets/assets/images/RaMnlQPnb2zCm16iem16BgHZG0.jpg",
+      "/assets/assets/images/dkxx6efOhClZ3NDfNnmESExY.jpg",
+      "/assets/assets/images/d0cOZdIP9O1gqcUIQ47JcCfYqk.jpg"
+    ],
+    "overview": "Everything here feels intentional. Space is not just physical; it is part of the design. Villas sit apart from each other, pathways remain quiet, and the ocean surrounds you without interruption.",
+    "note": "This is not about filling time with activities. It is about creating an environment where every detail supports comfort and ease. From morning light entering the villa to evenings that fade slowly over the water, the experience is shaped by how it feels rather than what is planned.",
+    "highlights": [
+      "Private villa experience with direct ocean access",
+      "Curated moments designed for comfort and exclusivity",
+      "Elevated dining and personalized service",
+      "Minimal crowd, maximum privacy"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "tanzania-safari-wildlife-experience",
+    "slug": "tanzania-safari-wildlife-experience",
+    "title": "Tanzania Safari Wildlife Experience",
+    "category": "Wildlife",
+    "location": "Tanzania",
+    "price": 4250,
+    "priceFormatted": "$4,250",
+    "duration": "3 D /  2N",
+    "days": 3,
+    "nights": 2,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/nyUJRy7QUdn8Q1ZiRYgzBSAQfQ.jpg",
+    "images": [
+      "/assets/assets/images/nyUJRy7QUdn8Q1ZiRYgzBSAQfQ.jpg",
+      "/assets/assets/images/4wzhinjefD79XW7qjdGkIdFjak.jpg",
+      "/assets/assets/images/kGQkpOrJKxCTJQrJR5Fvf7pPCE.jpg",
+      "/assets/assets/images/qCZq7pajPUsHWYCr8j3RxbATo7I.jpg"
+    ],
+    "overview": "Out here, nothing stays still for long. Herds shift across the plains, predators follow patterns that are never predictable, and the horizon always feels active even in silence. The landscape is wide, but every moment carries detail.",
+    "note": "The experience is not built around fixed sights. It unfolds through observation. Early light reveals movement, midday slows everything down, and evening brings a different kind of energy. Each day depends on what the land offers, not what is planned in advance.",
+    "highlights": [
+      "Guided safari drives across key wildlife regions",
+      "Opportunities to witness animals in natural movement",
+      "Small group for better positioning and flexibility",
+      "Balanced between active drives and quiet observation"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  },
+  {
+    "id": "serengeti-great-migration-tour",
+    "slug": "serengeti-great-migration-tour",
+    "title": "Serengeti Great Migration Tour",
+    "category": "Wildlife",
+    "location": "Tanzania",
+    "price": 4980,
+    "priceFormatted": "$4,980",
+    "duration": "7 D / 6 N",
+    "days": 7,
+    "nights": 6,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/assets/assets/images/uJdekhRCwLlDq7EDQBSMrevMok4.jpg",
+    "images": [
+      "/assets/assets/images/uJdekhRCwLlDq7EDQBSMrevMok4.jpg",
+      "/assets/assets/images/R5tLu0UmdrnRTxHAoooRaKZh8U.jpg",
+      "/assets/assets/images/QrmVzfnNBXwgsyIN6xd75aRGRAU.jpg",
+      "/assets/assets/images/GoKG7YSPUQHf6EMfM0RYsSea8lQ.jpg"
+    ],
+    "overview": "The Serengeti is defined by motion. Thousands of animals move across the plains in search of water and grazing, creating patterns that stretch beyond the horizon. Nothing feels static, every direction holds activity.",
+    "note": "This journey follows that movement closely. Instead of fixed viewing points, each day adjusts to where herds gather and cross. Timing, location, and patience shape what unfolds, making every sighting feel earned rather than expected.",
+    "highlights": [
+      "Focused on the Great Migration experience",
+      "High chances of witnessing herd movement and crossings",
+      "Smaller group for better positioning during sightings",
+      "Flexible routing based on wildlife patterns"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Welcome Dinner",
+        "description": "Arrive at destination, private transfer to hotel, and evening welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Historic Landmarks & Cultural Tour",
+        "description": "Explore iconic monuments, heritage alleys, and local artisan quarters."
+      },
+      {
+        "day": 3,
+        "title": "Scenic Countryside Excursion",
+        "description": "Journey into scenic surrounding landscapes, nature reserves, and panoramic viewpoints."
+      },
+      {
+        "day": 4,
+        "title": "Local Gastronomy & Market Walk",
+        "description": "Guided culinary walking tour through historic food markets and tasting sessions."
+      },
+      {
+        "day": 5,
+        "title": "Departure & Farewell",
+        "description": "Leisurely breakfast, last-minute shopping, and private airport transfer."
+      }
+    ],
+    "inclusions": [
+      "All boutique hotel stays with daily breakfast",
+      "Private airport and inter-city transfers",
+      "Dedicated local English-speaking expert guide",
+      "All entry permits and monument entrance tickets",
+      "Curated welcome dinner and local culinary tasting"
+    ],
+    "exclusions": [
+      "International flights to/from departure city",
+      "Travel insurance and personal medical coverage",
+      "Alcoholic beverages and personal expenses",
+      "Optional adventure activities not in itinerary"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+const fs = require('fs');
+const path = require('path');
+
+const ROOT = path.join(__dirname, '../../cloned_site');
+const storiesHtml = fs.readFileSync(path.join(ROOT, 'traveler-stories/index.html'), 'utf8');
+
+// Also inspect index.html testimonials
+const indexHtml = fs.readFileSync(path.join(ROOT, 'index.html'), 'utf8');
+
+const stories = [
+  {
+    id: 'story-1',
+    author: 'Priya & Rohan Mehta',
+    location: 'Mumbai, India',
+    tour: 'Maldives Luxury Retreat Escape',
+    category: 'Honeymoon',
+    rating: 5.0,
+    avatar: '/assets/images/XgBhcRe7JgnIcaGpOA4UIvza0YE.png',
+    image: '/assets/images/yEQwrG2e3i6vpSYWpjmI073swY.jpg',
+    quote: 'It felt like time paused, and nothing else mattered. Waking up to the ocean, spending days without a plan, and watching sunsets that didn’t feel real. The entire experience was calm, private, and exactly what we needed without even knowing it.'
+  },
+  {
+    id: 'story-2',
+    author: 'Tom Eriksson',
+    location: 'Stockholm, Sweden',
+    tour: 'Iceland Northern Lights Trails',
+    category: 'Nature',
+    rating: 5.0,
+    avatar: '/assets/images/TnroCEIzMwp1ZtKwghoBXZTuRc.png',
+    image: '/assets/images/sRt3AoDQ9mY9K6vU01ZFwF4Ev0M.jpg',
+    quote: 'We waited for hours, and it was completely worth it. The northern lights appeared slowly, almost quietly, but the feeling stayed long after. Combined with waterfalls, glaciers, and black sand beaches, every day felt raw and unforgettable.'
+  },
+  {
+    id: 'story-3',
+    author: 'Elena Tanaka',
+    location: 'Tokyo, Japan',
+    tour: 'Tanzania Safari Wildlife Experience',
+    category: 'Wildlife',
+    rating: 5.0,
+    avatar: '/assets/images/XgBhcRe7JgnIcaGpOA4UIvza0YE.png',
+    image: '/assets/images/nyUJRy7QUdn8Q1ZiRYgzBSAQfQ.jpg',
+    quote: 'Seeing wildlife this close changes everything. Every drive felt different, from lions resting in the shade to elephants crossing right in front of us. It wasn’t just about seeing animals, it was about being part of their world, even for a moment.'
+  },
+  {
+    id: 'story-4',
+    author: 'Marcus & Claire Vance',
+    location: 'London, UK',
+    tour: 'Japan Autumn Colors Tour',
+    category: 'Nature',
+    rating: 5.0,
+    avatar: '/assets/images/TnroCEIzMwp1ZtKwghoBXZTuRc.png',
+    image: '/assets/images/RF9WW4hfDIJq6W4I7AKRghD90io.jpg',
+    quote: 'Walking through temples surrounded by autumn colors, quiet paths, and soft light made every moment feel calm and thoughtful. It wasn’t crowded or rushed, just perfectly balanced.'
+  },
+  {
+    id: 'story-5',
+    author: 'David Kim',
+    location: 'Seoul, South Korea',
+    tour: 'Beijing & Shanghai City Highlights',
+    category: 'Cities',
+    rating: 5.0,
+    avatar: '/assets/images/XgBhcRe7JgnIcaGpOA4UIvza0YE.png',
+    image: '/assets/images/X88n6vHq10xQ6U5yq8B8J1f9.jpg',
+    quote: 'Beijing felt historic and grounded, while Shanghai moved fast and modern. Experiencing both in one journey gave us a perspective we didn’t expect but really appreciated.'
+  },
+  {
+    id: 'story-6',
+    author: 'Sophie Dubois',
+    location: 'Paris, France',
+    tour: 'Morocco Cultural Cities Tour',
+    category: 'Cities',
+    rating: 5.0,
+    avatar: '/assets/images/TnroCEIzMwp1ZtKwghoBXZTuRc.png',
+    image: '/assets/images/qTCw6M4u27RbXC4G6UlSo6qCdg.jpg',
+    quote: 'From markets to architecture, the culture felt alive everywhere we went. It wasn’t just sightseeing, it felt like stepping into a completely different way of life.'
+  },
+  {
+    id: 'story-7',
+    author: 'Liam & Emma Wilson',
+    location: 'Sydney, Australia',
+    tour: 'New York & California City Escape',
+    category: 'Cities',
+    rating: 5.0,
+    avatar: '/assets/images/XgBhcRe7JgnIcaGpOA4UIvza0YE.png',
+    image: '/assets/images/6xaJmGleqVtpF2zdzlRPpZe7uw.jpg',
+    quote: 'New York was intense and fast, California felt open and relaxed. Moving between both gave us the best of two completely different worlds in a short time.'
+  },
+  {
+    id: 'story-8',
+    author: 'Arjun Mehta',
+    location: 'Adventure Seeker · Mumbai',
+    tour: 'Deep Amazon River Journey',
+    category: 'Adventure',
+    rating: 5.0,
+    avatar: '/assets/images/TnroCEIzMwp1ZtKwghoBXZTuRc.png',
+    image: '/assets/images/F850n80kQf8a7y2QxL7b50Z1.jpg',
+    quote: 'The experience felt raw and real. Every sound, every moment, and every step through the Amazon made us feel completely disconnected from everything else.'
+  }
+];
+
+fs.writeFileSync(path.join(__dirname, 'stories_dataset.json'), JSON.stringify(stories, null, 2), 'utf8');
+console.log(`Saved ${stories.length} stories in stories_dataset.json`);
